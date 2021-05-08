@@ -12,7 +12,7 @@ This project was built using create-react-app.  It uses Flickr's API to fetch Im
 HTML, CSS, JavaScript, React/Redux, API Requests, pagination(infinte page scroll), search text in URL, and previously searched image, Cross-Browser UI, w/ Axios.
 
 ### Check it out
-    https://shiv-flickr-api-task.herokuapp.com/
+                 <ADD URL HERE>
 
 ### How To Use
 
